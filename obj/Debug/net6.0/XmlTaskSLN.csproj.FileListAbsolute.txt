@@ -1,0 +1,15 @@
+C:\Users\Lilith\CSharp Exercise\XmlTaskSLN\bin\Debug\net6.0\XmlTaskSLN.exe
+C:\Users\Lilith\CSharp Exercise\XmlTaskSLN\bin\Debug\net6.0\XmlTaskSLN.deps.json
+C:\Users\Lilith\CSharp Exercise\XmlTaskSLN\bin\Debug\net6.0\XmlTaskSLN.runtimeconfig.json
+C:\Users\Lilith\CSharp Exercise\XmlTaskSLN\bin\Debug\net6.0\XmlTaskSLN.dll
+C:\Users\Lilith\CSharp Exercise\XmlTaskSLN\bin\Debug\net6.0\XmlTaskSLN.pdb
+C:\Users\Lilith\CSharp Exercise\XmlTaskSLN\obj\Debug\net6.0\XmlTaskSLN.csproj.AssemblyReference.cache
+C:\Users\Lilith\CSharp Exercise\XmlTaskSLN\obj\Debug\net6.0\XmlTaskSLN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilith\CSharp Exercise\XmlTaskSLN\obj\Debug\net6.0\XmlTaskSLN.AssemblyInfoInputs.cache
+C:\Users\Lilith\CSharp Exercise\XmlTaskSLN\obj\Debug\net6.0\XmlTaskSLN.AssemblyInfo.cs
+C:\Users\Lilith\CSharp Exercise\XmlTaskSLN\obj\Debug\net6.0\XmlTaskSLN.csproj.CoreCompileInputs.cache
+C:\Users\Lilith\CSharp Exercise\XmlTaskSLN\obj\Debug\net6.0\XmlTaskSLN.dll
+C:\Users\Lilith\CSharp Exercise\XmlTaskSLN\obj\Debug\net6.0\refint\XmlTaskSLN.dll
+C:\Users\Lilith\CSharp Exercise\XmlTaskSLN\obj\Debug\net6.0\XmlTaskSLN.pdb
+C:\Users\Lilith\CSharp Exercise\XmlTaskSLN\obj\Debug\net6.0\XmlTaskSLN.genruntimeconfig.cache
+C:\Users\Lilith\CSharp Exercise\XmlTaskSLN\obj\Debug\net6.0\ref\XmlTaskSLN.dll

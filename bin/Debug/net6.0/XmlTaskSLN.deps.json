@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "XmlTaskSLN/1.0.0": {
+        "runtime": {
+          "XmlTaskSLN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XmlTaskSLN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
